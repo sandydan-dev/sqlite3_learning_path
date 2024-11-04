@@ -1,0 +1,21 @@
+{
+  "name": "creating_book_store_with_sqlitedb",
+  "version": "1.0.0",
+  "description": "creating book store backend with sqlite3 db ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sqlite",
+    "express",
+    "sqlite3"
+  ],
+  "author": "Sandeep Dhanwate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "creating_movie_app_with_sqlitedb",
+  "version": "1.0.0",
+  "description": "creating connection for sqlite db",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js "
+  },
+  "keywords": [
+    "express",
+    "sqlite3",
+    "sqlite"
+  ],
+  "author": "Sandeep Dhanwate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {}
+}

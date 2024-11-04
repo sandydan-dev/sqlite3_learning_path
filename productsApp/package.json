@@ -1,0 +1,21 @@
+{
+  "name": "productsapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "sqlite",
+    "sqlite3"
+  ],
+  "author": "Sandeep Dhanwate",
+  "license": "ISC",
+  "description": "making electronic backend api",
+  "dependencies": {
+    "express": "^4.21.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  }
+}
